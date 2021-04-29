@@ -21,7 +21,7 @@
 
 文件夹下的:
 
-![avatar]()
+![avatar](https://github.com/huanghe12345/huanghe/blob/93836681fd9ac1791014eb390028d9047d934478/src=http___www.iopen.com.cn_upload_201912_19_1576737012404114.jpg&refer=http___www.iopen.com.jpg)
 
 
 ---
